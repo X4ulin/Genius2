@@ -1,4 +1,4 @@
-# Jogo Gênios (Simone)
+# Jogo Genius 
 
 Este é um jogo estilo "Gênios" onde o jogador precisa repetir uma sequência de quadrados que piscam. O jogo tem três níveis de dificuldade e utiliza React Native para sua implementação.
 
